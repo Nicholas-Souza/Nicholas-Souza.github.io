@@ -9,7 +9,7 @@ I'm developer student <br>
 I work at Pado S.A Industrial Comercial e Importadora<br>
 Enthusiast in technology, cibersecurity and information<br>
 
-![Nicholas GitHub stats](https://github-readme-stats.vercel.app/api?username=jean-pablo&theme=vision-friendly-dark&show_icons=true)
+![Nicholas GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo-jean&theme=vision-friendly-dark&show_icons=true)
 
 
   ## Contact us<br>
