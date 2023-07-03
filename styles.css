@@ -1,0 +1,20 @@
+body {
+    
+    background-color: rgb(0, 0, 0);
+
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+}
+
+#imagem {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
