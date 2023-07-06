@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+nav {
+   
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #2B1A3B;
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+}
+
+.as {
+
+    flex: 1 1 auto;
+    flex-direction: row;
+    display: flex;
+}
+
+#asd {
+    padding-right: 30px;
+    height: 100%;
+    align-items: center;
+    margin-left: auto;
+    display: flex;
+    
+}
+
+#asds {
+    font-family: arial;
+    list-style-type: none;
+    padding: 10px;
+    display: flex;
+    
+
+}
+.navBu {
+    padding: 15px;
+    color: white;
+    text-decoration: none;
+}
+

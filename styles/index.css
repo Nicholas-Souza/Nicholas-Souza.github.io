@@ -1,0 +1,38 @@
+body {
+
+    background-color: rgba(18, 27, 36, 14);
+    height: 100vh;
+    width: 100vw;
+
+}
+
+
+#cc {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+   
+
+}
+
+
+
+#sapo {
+
+    width: 40%;
+    position: absolute;
+
+
+
+}
+
+
+
+#Rato {
+    /*position: relative;*/
+    z-index: 10;
+    padding-top: 9rem;
+
+}
