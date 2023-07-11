@@ -55,3 +55,25 @@ h1{
     left:50%;
     transform: translate(-50%, -50%);
 }
+
+#texto {
+
+    width: 100%;
+    position: absolute;
+    top: 110%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-weight: 100;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    margin: 0 auto;
+    padding: 0 20px;
+    max-width: 600px;
+    text-shadow: 0 0 10px rgba(0,0,0,0.5);
+    z-index: 10;
+
+}
