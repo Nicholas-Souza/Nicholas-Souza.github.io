@@ -6,7 +6,8 @@
 
 
 nav {
-   
+    
+    z-index: 9999;
     position: fixed;
     top: 0;
     width: 100%;
@@ -16,14 +17,16 @@ nav {
     padding: 5px;
 }
 
-.as {
+
+
+.NavSuper {
 
     flex: 1 1 auto;
     flex-direction: row;
     display: flex;
 }
 
-#asd {
+#NavLista {
     padding-right: 30px;
     height: 100%;
     align-items: center;
@@ -32,7 +35,7 @@ nav {
     
 }
 
-#asds {
+#NavClass {
     font-family: arial;
     list-style-type: none;
     padding: 10px;
