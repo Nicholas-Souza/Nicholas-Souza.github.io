@@ -49,3 +49,17 @@ nav {
     text-decoration: none;
 }
 
+#siteDe {
+
+    display: flex;
+    text-align: center;
+    align-items: center;
+    color: #fff;
+    font-family: arial;
+    flex-direction: column;
+    justify-content: center;
+    height: auto;
+    width: auto;
+
+
+}
