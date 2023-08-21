@@ -1,0 +1,6 @@
+-Made a simple game - breakout !
+  We all must have have played it sometime.
+-Objective of game : destroy all bricks without ball letting fall off using the paddle.
+-Made using - javascript , canvas(html) , phaser(js library)
+-index.html(at home screen) - uses only javascript to run the game.(Kind of repetitive)
+  game.html(in the breakout-phaser folder) - uses phaser library and is more random than the previous.
