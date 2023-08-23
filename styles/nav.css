@@ -58,8 +58,18 @@ nav {
     font-family: arial;
     flex-direction: column;
     justify-content: center;
+    height: 100%;
+    width: 100%;
+    margin: 2% auto;
+     margin-left: 11%; 
+
+
+
+}
+
+.gifRato {
+
     height: auto;
     width: auto;
-
 
 }

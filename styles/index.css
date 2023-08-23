@@ -2,8 +2,9 @@
 
 
 body {
-
     
+    overflow-y: hidden;
+    overflow-x: hidden;
     background-color: rgba(18, 27, 36, 14);
     height: auto;
     width: 100vw;
