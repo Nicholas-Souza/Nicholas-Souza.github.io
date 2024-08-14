@@ -27,7 +27,7 @@ nav {
 }
 
 #NavLista {
-    padding-right: 30px;
+    padding-right: 23px;
     height: 100%;
     align-items: center;
     margin-left: auto;
@@ -44,7 +44,7 @@ nav {
 
 }
 .navBu {
-    padding: 15px;
+    padding: 10px;
     color: white;
     text-decoration: none;
 }
