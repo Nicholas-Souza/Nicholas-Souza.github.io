@@ -20,8 +20,10 @@ body {
   
   #cachorro {
     
+
+    
     z-index: 10;
-    width: 25%;
+    width: 40%;
     height:auto;
     position: absolute;
     top: 56%;
