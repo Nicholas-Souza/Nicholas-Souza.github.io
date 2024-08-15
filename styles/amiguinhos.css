@@ -2,7 +2,8 @@
 body {
 
     background-color: rgba(18, 27, 36, 14);
-  
+    overflow-y: hidden ;
+    overflow-x: hidden;  
   }
   
   .an{
