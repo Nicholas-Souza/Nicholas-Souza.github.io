@@ -46,7 +46,7 @@ h1{
 
 
 
-#Rato {
+.Rato {
     /*position: relative;*/
     z-index: 10;
     width: 25%;
@@ -55,7 +55,9 @@ h1{
     top: 56%;
     left:50%;
     transform: translate(-50%, -50%);
+
 }
+
 
 #texto {
 
