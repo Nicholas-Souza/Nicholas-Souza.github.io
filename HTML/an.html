@@ -5,28 +5,45 @@
 <link rel="stylesheet" href="../styles/an.css">
 <script type="text/javascript" src="../javascript/an.js"></script>
 
+
 </head>
 <body>
 
 <h2>Modal Example</h2>
 
 <!-- Trigger/Open The Modal -->
-<button id="myBtn">Open Modal</button>
 
-<button id="myBt">FF</button>
+
+<button id="Mybt" onclick="foto('MyModa')">FF</button> <br>
 
 <!-- The Modal -->
-<div id="myModal" class="modal">
+<div id="MyModa" class="modal">
 
   <!-- Modal content -->
   <div class="modal-content">
-    <span class="close">&times;</span>
+    <span class="close" onclick="foto('MyModa')" >&times;</span>
     <p><img src="../fotos/eueu.png"></p>
   </div>
 
 </div>
 
+
+
+<button id="Mybt" onclick="foto('Sla')">Esse é viado</button> <br>
+
+<!-- The Modal -->
+<div id="Sla" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close" onclick="foto('Sla')" >&times;</span>
+    <p><img src="../fotos/aaas.png"></p>
+  </div>
+
+</div>
+
 <script type="text/javascript" src="../javascript/an.js"></script>
+
 
 </body>
 </html>
