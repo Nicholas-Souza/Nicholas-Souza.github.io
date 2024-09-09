@@ -8,7 +8,7 @@ body {
   
   .an{
   
-    color: rgba(18, 27, 36, 14);
+    color: aliceblue;
     font-family: "Poppins", sans-serif;
     font-size: 20px;
     align-items: center;
@@ -19,16 +19,3 @@ body {
   
   } 
   
-  #cachorro {
-    
-
-    
-    z-index: 10;
-    width: 40%;
-    height:auto;
-    position: absolute;
-    top: 56%;
-    left:50%;
-    transform: translate(-50%, -50%);
-      
-  }
