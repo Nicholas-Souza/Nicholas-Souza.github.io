@@ -3,49 +3,73 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="../styles/an.css">
+<link rel="stylesheet" href="../styles/nav.css">
 <script type="text/javascript" src="../javascript/an.js"></script>
-
+<title>Testes</title>
 
 </head>
-<body>
 
-<h2>Modal Example</h2>
+<nav> 
 
+  <a href="../index.html"> <img src="http://www.fiocruz.br/biosseguranca/Bis/jornal/rato2.gif" alt="logo" height="100%" width="60px"></a>
 
+   <!--  <div id="siteDe"> 
 
+      <h3> Site de Nicholas Souza</h3>
 
-<button  onclick="foto('MyModa')">FF</button> <br>
+  </div> -->
 
+  <div class="NavSuper">
+      
+      <div id="NavLista">
+         
+          <ul>
 
-<div id="MyModa" class="modal">
+              <div id="NavClass">
 
- 
-  <div class="modal-content">
-    <span class="close" onclick="foto('MyModa')" >&times;</span>
-    <p><img src="../fotos/eueu.png"></p>
+                  <li><a class="navBu" href="/HTML/contatos.html"> Contatos </a></li>
+                  <li><a class="navBu" href="/HTML/eu.html"> Sobre </a></li>
+                  <li><a class="navBu" href="/HTML/amiguinhos.html"> Amiguinhos </a></li>
+                  
+              </div>
+
+          </ul>
+      </div>
   </div>
 
-</div>
+</nav>
 
-<button  onclick="foto('Sla')">Esse é viado</button> <br>
+<body>
 
+  <div class="super">
 
-<div id="Sla" class="modal">
-
-  
-  <div class="modal-content">
-    <span class="close" onclick="foto('Sla')" >&times;</span>
-    <div class="teste1">
-      <p><img src="../fotos/amigos/"></p>
-      <div class="ga">
-        <h2>Baboseiras</div>
-  
+    <button class="btn"  onclick="foto('MyModa')">FF</button> <br>
+    <div id="MyModa" class="modal">
+      <div class="modal-content">
+        <span class="close" onclick="foto('MyModa')" >&times;</span>
+        <p><img src="../fotos/amigos/bem.png"></p>
       </div>
+
     </div>
 
-</div>
+    <button class="btn"  onclick="foto('Sla')">testando</button> <br>
+    <div id="Sla" class="modal">
+      <div class="modal-content">
+        <span class="close" onclick="foto('Sla')" >&times;</span>
+        <div class="teste1">
+          <p><img src="../fotos/amigos/aaas.png"></p>
+          <div class="ga">
+            <h2>Baboseiras</h2>
+          </div>
+  
+        </div>
+      </div>
 
-<script type="text/javascript" src="../javascript/an.js"></script>
+    </div>
+
+  </div>
+
+  <script type="text/javascript" src="../javascript/an.js"></script>
 
 
 </body>
