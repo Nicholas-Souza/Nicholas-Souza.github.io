@@ -44,7 +44,7 @@ body {
 .modal-content {
 
   overflow: auto;
-  background-color: #ffffff;
+  background-color: rgba(18, 27, 36, 14);
   margin: auto;
   padding: 20px;
   border: 1px solid #888;
@@ -88,4 +88,7 @@ body {
   text-decoration: none;
   cursor: pointer;
 
+}
+h2 {
+  color: white;
 }
